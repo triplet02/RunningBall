@@ -8,7 +8,7 @@ public class Movement : MonoBehaviour
     private GameController gameController;
 
     // x 축 이동
-    private float moveXWidth = 1.5f;
+    private float moveXWidth = 2.0f;
     private float moveTimeX = 0.1f;
     private bool isXMove = false;
     //  y축 이동
